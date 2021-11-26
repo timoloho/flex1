@@ -24,6 +24,19 @@
     background-color: lightgray;
 }
 
+a:link, a:visited {
+
+    color: blue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    justify-content: space-evenly;
+  }
+  
+  a:hover, a:active {
+      color:gray;
+  }
 
 .box {
     color:white;
